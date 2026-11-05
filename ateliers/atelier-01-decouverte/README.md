@@ -2,7 +2,7 @@
 
 | Module | Durée | Moment | Fichiers |
 |---|---|---|---|
-| 1 · Introduction à GitHub Copilot | 20 min | Jour 1 · 10 h 05 | `katas/01-premiers-pas.js`, `JOURNAL.md` |
+| 1 · Introduction à GitHub Copilot | 20 min | Jour 1 · 10 h 30 | `katas/01-premiers-pas.js`, `JOURNAL.md` |
 
 ## Objectif
 

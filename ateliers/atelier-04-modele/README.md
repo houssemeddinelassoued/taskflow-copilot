@@ -2,7 +2,7 @@
 
 | Module | Durée | Moment | Fichiers |
 |---|---|---|---|
-| 4 · Génération de code simple | 55 min | Jour 1 · 15 h 45 | `src/tickets.js`, `test/tickets.test.js`, `katas/python/`, `katas/java/` |
+| 4 · Génération de code simple | 55 min | Jour 1 · 15 h 55 | `src/tickets.js`, `test/tickets.test.js`, `katas/python/`, `katas/java/` |
 
 ## Objectif
 

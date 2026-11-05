@@ -2,7 +2,7 @@
 
 | Module | Durée | Moment | Fichiers |
 |---|---|---|---|
-| 3 · Comprendre les suggestions | 35 min | Jour 1 · 14 h 00 | `katas/03-contexte/`, `JOURNAL.md` |
+| 3 · Comprendre les suggestions | 35 min | Jour 1 · 14 h 15 | `katas/03-contexte/`, `JOURNAL.md` |
 
 ## Objectif
 

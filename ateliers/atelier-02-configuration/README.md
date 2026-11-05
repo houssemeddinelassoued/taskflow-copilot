@@ -2,7 +2,7 @@
 
 | Module | Durée | Moment | Fichiers |
 |---|---|---|---|
-| 2 · Installation et configuration | 30 min | Jour 1 · 11 h 15 | `.vscode/settings.json`, `katas/02-raccourcis.js` |
+| 2 · Installation et configuration | 30 min | Jour 1 · 11 h 45 | `.vscode/settings.json`, `katas/02-raccourcis.js` |
 
 ## Objectif
 
