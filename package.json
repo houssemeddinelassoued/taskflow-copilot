@@ -1,0 +1,20 @@
+{
+  "name": "taskflow-copilot",
+  "version": "1.0.0",
+  "description": "TaskFlow : le dépôt fil rouge de la formation GitHub Copilot · Débutant (Docaposte Institute).",
+  "type": "module",
+  "private": true,
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "test": "node --test \"test/*.test.js\"",
+    "test:atelier4": "node --test test/tickets.test.js",
+    "test:atelier5": "node --test test/backlog.test.js test/api-csv.test.js",
+    "test:atelier6": "node --test test/kanban-legacy.test.js test/kanban-contrat.test.js",
+    "test:revue": "node --test \"ateliers/atelier-08-revue/*.test.js\"",
+    "couverture": "node --test --experimental-test-coverage \"test/*.test.js\"",
+    "demo": "node scripts/demo.js",
+    "serveur": "node scripts/serveur.js"
+  }
+}

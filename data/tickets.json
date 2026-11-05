@@ -1,0 +1,14 @@
+[
+  { "id": 1, "titre": "Connexion SSO de l’espace client", "type": "story", "priorite": 1, "points": 8, "statut": "encours", "creeLe": "2026-10-05" },
+  { "id": 2, "titre": "Mot de passe oublié : lien expiré", "type": "bug", "priorite": 1, "points": 3, "statut": "afaire", "creeLe": "2026-10-06" },
+  { "id": 3, "titre": "Tableau de bord des contrats", "type": "story", "priorite": 2, "points": 13, "statut": "backlog", "creeLe": "2026-10-06" },
+  { "id": 4, "titre": "Export PDF des factures", "type": "story", "priorite": 2, "points": 5, "statut": "backlog", "creeLe": "2026-10-07" },
+  { "id": 5, "titre": "Sécurité : en-têtes HTTP manquants", "type": "tache", "priorite": 1, "points": 2, "statut": "encours", "creeLe": "2026-10-08" },
+  { "id": 6, "titre": "Libellés du formulaire de contact", "type": "tache", "priorite": 3, "points": 1, "statut": "termine", "creeLe": "2026-10-08" },
+  { "id": 7, "titre": "Notifications par courriel", "type": "story", "priorite": 2, "points": null, "statut": "backlog", "creeLe": "2026-10-09" },
+  { "id": 8, "titre": "Page d’accueil lente sur mobile", "type": "bug", "priorite": 2, "points": 5, "statut": "afaire", "creeLe": "2026-10-12" },
+  { "id": 9, "titre": "Historique des paiements", "type": "story", "priorite": 3, "points": 8, "statut": "backlog", "creeLe": "2026-10-13" },
+  { "id": 10, "titre": "Accessibilité : contraste des boutons", "type": "tache", "priorite": 2, "points": 2, "statut": "termine", "creeLe": "2026-10-14" },
+  { "id": 11, "titre": "Login bloqué après trois essais", "type": "bug", "priorite": 1, "points": 2, "statut": "backlog", "creeLe": "2026-10-15" },
+  { "id": 12, "titre": "Chatbot d’assistance", "type": "story", "priorite": 3, "points": null, "statut": "backlog", "creeLe": "2026-10-16" }
+]
