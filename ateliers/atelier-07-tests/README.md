@@ -2,7 +2,7 @@
 
 | Module | Durée | Moment | Fichiers |
 |---|---|---|---|
-| 7 · Tests unitaires avec Copilot | 50 min | Jour 2 · 14 h 30 | `test/kanban.test.js`, `test/api-charger.test.js` (à créer) |
+| 7 · Tests unitaires avec Copilot | 40 min | Jour 2 · 14 h 30 | `test/kanban.test.js`, `test/api-charger.test.js` (à créer) |
 
 ## Objectif
 

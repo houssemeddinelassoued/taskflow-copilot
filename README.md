@@ -21,7 +21,7 @@ JavaScript, avec GitHub Copilot dans VS Code. Chaque atelier ajoute une brique.
 | Commande | Effet |
 |---|---|
 | `npm test` | tous les tests du dossier `test/` |
-| `npm run test:atelier4` (5, 6) | les tests d'acceptation d'un atelier |
+| `npm run test:atelier4` (5, 6, 9) | les tests d'acceptation d'un atelier |
 | `npm run test:revue` | les tests de la revue (Atelier 8) |
 | `npm run couverture` | tests + couverture de code |
 | `npm run demo` | aperçu du backlog dans le terminal |
@@ -41,7 +41,7 @@ JavaScript, avec GitHub Copilot dans VS Code. Chaque atelier ajoute une brique.
 | `reprises/` | des points de reprise, si vous êtes bloqué |
 | `JOURNAL.md` | votre journal de bord, à remplir au fil des ateliers |
 
-## Les 8 ateliers (individuels)
+## Les 9 ateliers (individuels)
 
 | # | Atelier | Module | Durée |
 |---|---|---|---|
@@ -51,8 +51,9 @@ JavaScript, avec GitHub Copilot dans VS Code. Chaque atelier ajoute une brique.
 | 4 | TaskFlow v1 : le modèle de ticket | 4 · Génération de code simple | 55 min |
 | 5 | TaskFlow v2 : backlog, classe et import | 5 · Fonctions et blocs de code | 50 min |
 | 6 | Refactorer le Kanban legacy | 6 · Refactoring | 45 min |
-| 7 | Une vraie suite de tests, générée et vérifiée | 7 · Tests unitaires | 50 min |
-| 8 | Revue de code et livraison | 8 · Bonnes pratiques et vérification | 40 min |
+| 7 | Une vraie suite de tests, générée et vérifiée | 7 · Tests unitaires | 40 min |
+| 8 | Revue de code et livraison | 8 · Bonnes pratiques et vérification | 30 min |
+| 9 | Votre équipe d'agents livre une fonctionnalité | 9 · Les agents dans Copilot | 30 min |
 
 ## Règles du jeu
 

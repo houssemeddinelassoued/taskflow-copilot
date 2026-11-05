@@ -2,7 +2,7 @@
 
 | Module | Durée | Moment | Fichiers |
 |---|---|---|---|
-| 8 · Bonnes pratiques et vérification | 40 min | Jour 2 · 16 h 10 | `ateliers/atelier-08-revue/`, `.github/copilot-instructions.md` |
+| 8 · Bonnes pratiques et vérification | 30 min | Jour 2 · 16 h 00 | `ateliers/atelier-08-revue/`, `.github/copilot-instructions.md` |
 
 ## Objectif
 
@@ -14,7 +14,7 @@ Les 8 fichiers de `suggestions/` sont des fonctions TaskFlow générées par Cop
 
 ## Étapes
 
-1. **Relire sans outil** (10 min) : pour chaque suggestion, notez dans `REVUE.md` le défaut soupçonné et sa catégorie : logique, performance, sécurité, API inventée, licence.
+1. **Relire sans outil** (8 min) : pour chaque suggestion, notez dans `REVUE.md` le défaut soupçonné et sa catégorie : logique, performance, sécurité, API inventée, licence.
 2. **Second avis** : sur deux suggestions de votre choix, sélectionnez le code, clic droit › Copilot › revue de code (ou chat Ask : « Fais la revue de ce code ») et comparez avec votre liste : qu'a-t-il trouvé ? Qu'a-t-il manqué ?
 3. **Prouver** : pour 01 à 07, ajoutez un `describe` dans `revue.test.js` qui **échoue** sur la suggestion d'origine (`npm run test:revue`).
 4. **Corriger** : corrigez chaque suggestion (vous-même ou avec `Ctrl+I`) jusqu'au vert. Pour 08, décidez dans `REVUE.md` : remplacer par `structuredClone`, et retirer le code copié.
